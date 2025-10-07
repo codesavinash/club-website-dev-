@@ -41,3 +41,11 @@ The website showcases a premium club experience, featuring:
 🚧 Footer styling in progress  
 
 ---
+## 🎥 Git LFS Setup
+
+This project uses **Git Large File Storage (LFS)** to manage large media files like videos and high-resolution images.
+
+If you’re cloning this repo for the first time, please make sure to install Git LFS first:
+
+```bash
+git lfs install
